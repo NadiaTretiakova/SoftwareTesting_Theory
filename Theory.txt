@@ -1,9 +1,0 @@
-1.	What is a Test Environment?
-
-A testing environment is a setup of software and hardware for the testing teams to execute test cases. In other words, it supports test execution with hardware, software and network configured. Test environment configuration must mimic the production environment in order to uncover any environment/configuration related issues.
-A typical Environmental Configuration for a web-based application is given below:
-Web Server – IIS/ Apache
-Database – MS SQL
-OS – Windows/ Linux
-Browser – Chrome / FireFox
-Java version – version 6
