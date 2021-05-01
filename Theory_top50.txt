@@ -17,3 +17,16 @@ After developing the software module, developers convert the source codes into a
 •	What is Release in Software Testing?
 The release is the final application after completing development and testing. After testing the build, the testing team certifies that software and delivers it to the customer. It is possible for one release to have several builds. Therefore, it is the software delivered to the customer after completing the development and testing phases. Moreover, the release is based on builds, and it can have several builds.
 
+3.	What are the phases of testing?
+
+1.	Unit Testing
+Is the first level of testing and it involves testing individual modules of the software. It is usually performed by developers.
+2.	Integration Testing
+Is performed after unit testing. In integration testing, we test the group of related modules. It aims at finding interfacing issues between the modules.
+3.	System Testing
+Is the level of testing where the complete software is tested as a whole. The conformance of the application with its business requirements is checked in system testing.
+4.	Acceptance Testing
+Acceptance testing is the final stage of the QA test cycle. It helps evaluate if the application is ready to be released for user consumption. Typically, testers carry out this phase with the help of the representatives of the customer who test the application by using it. Therefore, they will check if the application can perform all the functions specified.
+
+
+
