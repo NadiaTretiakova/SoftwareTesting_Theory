@@ -19,13 +19,19 @@ The release is the final application after completing development and testing. A
 
 3.	What are the phases of testing?
 
-1.	Unit Testing
+3.1.	Unit Testing
 Is the first level of testing and it involves testing individual modules of the software. It is usually performed by developers.
-2.	Integration Testing
+3.2.	Integration Testing
 Is performed after unit testing. In integration testing, we test the group of related modules. It aims at finding interfacing issues between the modules.
-3.	System Testing
+There are different types of integration testing:
+•	Big bang Integration Testing – In big bang integration testing, testing starts only after all the modules are integrated.
+•	Top-down Integration Testing – In top-down integration, testing/integration starts from top modules to lower-level modules.
+•	Bottom-up Integration Testing – In bottom-up integration, testing starts from lower-level modules to higher-level module up in the hierarchy.
+•	Hybrid Integration Testing – Hybrid integration testing is the combination of both Top-down and bottom-up integration testing. In this approach, the integration starts from the middle layer and testing is carried out in both the direction
+
+3.3.	System Testing
 Is the level of testing where the complete software is tested as a whole. The conformance of the application with its business requirements is checked in system testing.
-4.	Acceptance Testing
+3.4.	Acceptance Testing
 Acceptance testing is the final stage of the QA test cycle. It helps evaluate if the application is ready to be released for user consumption. Typically, testers carry out this phase with the help of the representatives of the customer who test the application by using it. Therefore, they will check if the application can perform all the functions specified.
 
 
