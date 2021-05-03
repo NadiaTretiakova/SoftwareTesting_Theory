@@ -34,5 +34,10 @@ Is the level of testing where the complete software is tested as a whole. The co
 3.4.	Acceptance Testing
 Acceptance testing is the final stage of the QA test cycle. It helps evaluate if the application is ready to be released for user consumption. Typically, testers carry out this phase with the help of the representatives of the customer who test the application by using it. Therefore, they will check if the application can perform all the functions specified.
 
+4. What is an impact analysis?
+Impact Analysis is used in software testing to define all the risks associated with any kind of changes in a product being tested. 
+It is an estimation of changes on different levels of development documentation, testing documentation and components for the introduction of these changes and registration them in corresponding requests.(ISTQB glossary)
+
+
 
 
