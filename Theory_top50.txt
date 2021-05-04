@@ -38,6 +38,17 @@ Acceptance testing is the final stage of the QA test cycle. It helps evaluate if
 Impact Analysis is used in software testing to define all the risks associated with any kind of changes in a product being tested. 
 It is an estimation of changes on different levels of development documentation, testing documentation and components for the introduction of these changes and registration them in corresponding requests.(ISTQB glossary)
 
+5. Criteria for selecting appropriate test.
+
+6. The seven principles of testing:
+1. Testing shows the presence of defects, not their absence
+2. Exhaustive testing is impossible
+3. Early testing saves time and money
+4. Defects cluster together
+5. Beware of the pesticide paradox
+6. Testing is context-dependent
+7. Absence-of-errors is a fallacy
+
 
 
 
