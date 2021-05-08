@@ -49,6 +49,30 @@ It is an estimation of changes on different levels of development documentation,
 6. Testing is context-dependent
 7. Absence-of-errors is a fallacy
 
+7. What is independent testing?
+Independent testing corresponds to an independent team, who involve in testing activities other than developer to avoid author bias and is often more effective at finding defects and failures.
+Levels of Independent Testing
+The following list shows the increasing levels of independence for testing:
+•	Testing done by developer himself
+•	Independent testers ceded to the development team
+•	Independent Testing Team within Organization
+•	Independent Testers of different Organization
+•	Outsourced test team members of other organization
+Benefits:
+•	The tester sees each defect in a neutral perspective
+•	The tester is totally unbiased
+•	The tester sees what has been built rather than what the developer thought
+•	The tester makes no assumptions regarding quality
+Disadvantages:
+•	Isolation from the development team can sometimes lead to outdated documentation reference.
+•	The independent test execution is normally the last stage and affected by any delays earlier in the process.
+•	Developers might be irresponsible for quality as they might assume that independent testing team is there to find the issues within the system
+•	Independent testing can sometimes act as a hindrance to communication.
+
+
+
+
+
 
 
 
