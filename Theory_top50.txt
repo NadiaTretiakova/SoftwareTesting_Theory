@@ -55,9 +55,9 @@ Levels of Independent Testing
 The following list shows the increasing levels of independence for testing:
 •	Testing done by developer himself
 •	Independent testers ceded to the development team
-•	Independent Testing Team within Organization
-•	Independent Testers of different Organization
-•	Outsourced test team members of other organization
+•	Independent Testing Team within Organisation
+•	Independent Testers of different Organisation
+•	Outsourced test team members of other organisation
 Benefits:
 •	The tester sees each defect in a neutral perspective
 •	The tester is totally unbiased
@@ -68,6 +68,9 @@ Disadvantages:
 •	The independent test execution is normally the last stage and affected by any delays earlier in the process.
 •	Developers might be irresponsible for quality as they might assume that independent testing team is there to find the issues within the system
 •	Independent testing can sometimes act as a hindrance to communication.
+
+8. What is left shift testing?
+Shift Left is a practice intended to find and prevent defects early in the software delivery process. The idea is to improve quality by moving tasks to the left as early in the lifecycle as possible. Shift Left testing means testing earlier in the software development process.
 
 
 
